@@ -1,0 +1,19 @@
+name = "AbdurRazzaq"
+#use three quotes for multi line
+school = """paradise 
+and his also accadmey in doaba
+in the schhol in main road
+doaba hangu"""
+
+print("hello, " + name)
+print(name[5])
+print(name[6])
+print(name[7])
+print(name[8])
+print(name[9])
+print(name[10])
+print("using for loop\n")
+for character in name:
+  print(character)
+
+print(school)
