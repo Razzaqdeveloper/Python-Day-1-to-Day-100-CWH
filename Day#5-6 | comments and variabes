@@ -1,0 +1,20 @@
+print("hello")
+print(12+827)
+#print("bye")
+#bhjhhb
+
+a = 17525
+print (a)
+b = "razzaq"
+print (b)
+c = "paradise"
+d = complex(34,76)
+print("my school name is",type(a))
+print("my school name is",type(b))
+print("my school name is",type(c))
+print("my school name is",type(d))
+
+list1 = [45, 87, [-56, 48], ["apple", "banana"]]
+print (list1)
+tuple1 = ("razzaq","waqas"),("haris","hasnain")
+print(tuple1)
