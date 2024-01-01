@@ -1,0 +1,25 @@
+print(54+12)
+print(54-12)
+print(54*12)
+print(54/12)
+print(54//12)
+print(54%12)
+print(54**2)
+
+# Solution of exercise 1 
+a = 5
+b = 2
+print("the value of ",a, " +  ", b, "is: ", a + b)
+print("the value of ",a, " -  ", b, "is: ", a - b)
+print("the value of ",a, " *  ", b, "is: ", a * b)
+print("the value of ",a, " /  ", b, "is: ", a / b)
+print("the value of ",a, " %  ", b, "is: ", a % b)
+print("the value of ",a, " ** ", b, "is: ", a ** b)
+
+# type Casting
+#a = 4
+a = "4"
+#b = 8
+b = "8"
+
+print(int(a) + int(b))
